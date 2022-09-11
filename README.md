@@ -2,7 +2,7 @@
 バックエンドカリキュラム用ワークスペースです
 
 # ドキュメント（運用マニュアル）
-https://github.com/Kurogoma939/autumn_curriculum_docs
+https://github.com/autumn-backend/autumn_curriculum_docs
 
 
 ## カリキュラムの導入
